@@ -1,6 +1,6 @@
 ### Hi there, I'm Selim - 👋 
 
-[![Twitter Follow]](https://twitter.com/selimokten0)
+[![Twitter Follow](https://img.shields.io/twitter/follow/selimokten0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/selimokten0)
 
 ## I'm a Student and Programming Student!!
 
