@@ -5,7 +5,7 @@
 ## I'm a Student and Programming Student!!
 
 - 🔭 I just started to learn developing!
-- 🌱 I’m currently learning C++ and Python 
+- 🌱 I’m currently learning C++ and Flutter 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Starting to share Open Source projects
 - ⚡ Fun fact: I love to chess and basketball.
