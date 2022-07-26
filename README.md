@@ -5,7 +5,7 @@
 ## I'm a Student and Programming Student!!
 
 - 🔭 I just started to learn developing!
-- 🌱 I’m currently learning C++ and Flutter 
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Starting to share Open Source projects
 - ⚡ Fun fact: I love to chess and basketball.
@@ -20,8 +20,6 @@
 
 <br/><br/>
 Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <br/><br/>
