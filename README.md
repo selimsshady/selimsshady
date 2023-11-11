@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimokten&label=Profile%20views&color=0e75b6&style=flat" alt="selimokten" /> </p>
 
-<img align="right" alt="Working" width="300" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif"> 
+<img align="right" alt="Working" width="270" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif"> 
 
 - 🔭 I’m currently working on **Flutter and C++**
 
