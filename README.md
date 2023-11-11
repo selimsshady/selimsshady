@@ -55,8 +55,15 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
+</div>
+
+###
+<div align="right">
+  <a href="https://open.spotify.com/user/ke62itvisu1bi9bf84dobxcrj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ke62itvisu1bi9bf84dobxcrj&count=4" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
