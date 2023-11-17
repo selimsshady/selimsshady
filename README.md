@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on Flutter and C++</p>
+<p align="center">🔭 I’m currently working on Flutter, C++ and Python !</p>
 
 ###
 
