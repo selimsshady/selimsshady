@@ -3,6 +3,7 @@
 ###
 
 <p align="center">🔭 I’m currently working on Flutter, C++ and Python !</p>
+<p align="center">🔭 I’m stream when i work sometimes so Follow me on Kick https://kick.com/selimshady !</p>
 
 ###
 
